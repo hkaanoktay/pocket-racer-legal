@@ -37,7 +37,7 @@ We may update our Privacy Policy from time to time. You are advised to review th
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us:
 
 **Hikmet Kaan Oktay**
-Email: [Add your contact email]
+Email: hkaanoktay@icloud.com
 GitHub: [https://github.com/hkaanoktay](https://github.com/hkaanoktay)
 
 ---
